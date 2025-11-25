@@ -8,7 +8,7 @@
 -->
 
 # GitHub Pages
-
+https://SirStrategic.github.io/Rocket-Blog/
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
